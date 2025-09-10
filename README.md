@@ -3,7 +3,7 @@
 Herramienta para crear animaciones en ASCII a partir de un **spritesheet**.  
 Permite exportar la animación en **formato GIF**, **imágenes individuales** y en **texto ASCII** para usar en la línea de comandos.
 
-![Demo](ASCII_xAnimator/windows-amd64/cyberdeck_gif/ascii_animation.gif)
+![Demo](ASCII_ANIMATOR/windows-amd64/cyberdeck_gif/ascii_animation.gif)
 
 ## Características
 

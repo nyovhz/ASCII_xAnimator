@@ -11,7 +11,7 @@ Permite exportar la animación en **formato GIF**, **imágenes individuales** y 
 - Exportación a GIF animado.
 - Exportación a imágenes individuales (PNG/JPG).
 - Exportación en formato ASCII para terminal.
-- Fácil de usar en Windows, Linux y Mac.
+- Fácil de usar en Windows y Linux.
 ## Command-Line Animation (Bash)
 
 Ejecuta la animación desde la terminal con:
